@@ -16,7 +16,7 @@
   "text.config.moderate-loading-screen.option.modsOnlyOnce": "Показывать каждый мод только один раз",
   "text.config.moderate-loading-screen.option.modsOnlyOnce.tooltip": "Если включено, каждый мод падает вниз по экрану только один раз",
   "text.config.moderate-loading-screen.option.hideLibraries": "Скрывать моды-библиотеки",
-  "text.config.moderate-loading-screen.option.hideLibraries.tooltip": "Скрывает моды, отмеченные знаком \"Библиотека\".\nПримечание: не все моды-библиотеки помечают себя как таковые, используйте черный список, чтобы скрыть те, которые этого не делают.",
+  "text.config.moderate-loading-screen.option.hideLibraries.tooltip": "Скрывает моды, отмеченные знаком \"Library\".\nПримечание: не все моды-библиотеки помечают себя как таковые, используйте черный список, чтобы скрыть те, которые этого не делают.",
   "text.config.moderate-loading-screen.option.modIdBlacklist": "Черный список ID модов",
   "text.config.moderate-loading-screen.option.modIdBlacklist.tooltip": "Используйте сопоставление с шаблоном bash (паттерны), чтобы скрыть определенные моды по их ID.\nКонфигурация по умолчанию исключает десять миллионов подмодов Fabric API.",
   "text.config.moderate-loading-screen.option.iconSize": "Размер иконок",
